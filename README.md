@@ -1,16 +1,12 @@
-# SSH-PLUS
+# SSH-PLUS - AGOSTINHO CARRARA
 
 # @SRCARRARA
 
 PROJETO EM ANDAMENTO...
 
+• Atualiza o Sistema
 
-# 👇👽👍
-Só joga na máquina e deixar instalar
-
-• atualiza sistema
-
-• desativa Ipv6
+• desativa Ipv
 
 • instala recursos e o script
 
