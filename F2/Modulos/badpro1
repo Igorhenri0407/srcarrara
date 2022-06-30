@@ -33,7 +33,7 @@ echo "================================================"
 ;;
     2)
 install dos2unix -y /dev/null
-wget https://raw.githubusercontent.com/agrandefamiliassh/srcarrara/master/F2/badvpn/badvpn.sh /dev/null
+wget https://raw.githubusercontent.com/Igorhenri0407/srcarrara/master/F2/badvpn/badvpn.sh /dev/null
 chmod 777 badvpn.sh
 ./badvpn.sh
 echo "================================================"
