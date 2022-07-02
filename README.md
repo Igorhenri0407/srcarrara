@@ -1,6 +1,6 @@
-# SSH-PLUS - AGOSTINHO CARRARA
+# SSH-PLUS - AGOSTINHO CARRARA MEU AMIGO
 
-# @SRCARRARA
+# @Igorhenri0407
 
 PROJETO EM ANDAMENTO...
 
@@ -11,4 +11,4 @@ PROJETO EM ANDAMENTO...
 • instala recursos e o script
 
 
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/agrandefamiliassh/srcarrara/master/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Igorhenri0407/srcarrara/master/ssh-plus)
